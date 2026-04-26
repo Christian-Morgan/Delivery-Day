@@ -8,8 +8,11 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
-  "Folders":[],
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Character sprites","folderPath":"folders/Character sprites.yy","name":"Character sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Character objects","folderPath":"folders/Character objects.yy","name":"Character objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -19,7 +22,9 @@
   },
   "name":"Delivery Day",
   "resources":[
+    {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
     {"id":{"name":"overworld","path":"rooms/overworld/overworld.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
