@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"o_mrs_williams",
+  "%Name":"o_newspaper",
   "eventList":[],
   "managed":true,
-  "name":"o_mrs_williams",
+  "name":"o_newspaper",
   "overriddenProperties":[],
   "parent":{
-    "name":"Character objects",
-    "path":"folders/Character objects.yy",
+    "name":"Delivery Day",
+    "path":"Delivery Day.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_mrs_williams",
-    "path":"sprites/spr_mrs_williams/spr_mrs_williams.yy",
+    "name":"spr_newspaper_1",
+    "path":"sprites/spr_newspaper_1/spr_newspaper_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
